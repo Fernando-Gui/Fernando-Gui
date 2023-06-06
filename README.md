@@ -45,5 +45,4 @@ Here are some ideas to get you started:
 
   <h3>IDE's
     <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-PyCharm-000?&logo=Pycharm&logoColor=green">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code&logoColor=blue">
