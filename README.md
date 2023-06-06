@@ -27,20 +27,15 @@ Here are some ideas to get you started:
 
   <h3>Languages & Tools
     <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-Python-000?&logo=Python">
-    <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5">
-    <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3">
-    <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite">
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
-    <img src="https://img.shields.io/badge/-React%20Native-000?&logo=React">
+
     </div>
 
   <h3>Learning
     <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/-Git-000?&logo=Git">    
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL">
-    <img src="https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp">
-    <img src="https://img.shields.io/badge/-Node.JS-000?&logo=Node.JS">
+   
     </div>
 
   <h3>IDE's
