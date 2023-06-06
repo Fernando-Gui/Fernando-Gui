@@ -1,4 +1,4 @@
-### Hi there 👋 <y name is Fernando Siqueira Guimarães
+### Hi there 👋 name is Fernando Siqueira Guimarães
 
 <!--
 Here are some ideas to get you started:
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> I´m a Software Developer | Graduating in Software Engineering</h2>
+ 
  
  
   <h3>Github Status
