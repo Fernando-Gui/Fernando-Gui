@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <y name is Fernando Siqueira Guimarães
 
 <!--
 Here are some ideas to get you started:
@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Fernando Siqueira Guimarães
-  <h2>Software Developer | Graduating in Software Engineering</h2>
+<h2> I´m a Software Developer | Graduating in Software Engineering</h2>
  
  
   <h3>Github Status
@@ -28,14 +27,12 @@ Here are some ideas to get you started:
   <h3>Languages & Tools
     <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
-
     </div>
 
   <h3>Learning
     <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/-Git-000?&logo=Git">    
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL">
-   
     </div>
 
   <h3>IDE's
